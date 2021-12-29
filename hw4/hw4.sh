@@ -1,5 +1,5 @@
 #!/bin/bash
-#Created be Aleksey Borisov (alx.tech@yandex.ru) on VIM 7.4
+#Created by Aleksey Borisov (alx.tech@yandex.ru) on VIM 7.4
 
 #Проверка синтаксиса (необходимо раскомментировать set -n)
 #set -n
