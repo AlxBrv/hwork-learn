@@ -74,6 +74,7 @@ inst_nginx () {
 	wait
 	docker run -dit --name otus-nginx --net=host -p 80 -v /var/nginx/proxy.conf:/etc/nginx/conf.d/default.conf nginx 
 }
+
 #Подготавливаем Apache
 prep_apache () {
 	echo
